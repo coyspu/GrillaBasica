@@ -1,0 +1,262 @@
+[
+  {
+    "number": 1,
+    "name": "Canal A",
+    "logo": "logos/canal-a-ar.png"
+  },
+  {
+    "number": 2,
+    "name": "INFO COYSPU",
+    "logo": "logos/LogoCoyspu378.png"
+  },
+  {
+    "number": 3,
+    "name": "TN HD",
+    "logo": "logos/tn-todo-noticias-ar.png"
+  },
+  {
+    "number": 4,
+    "name": "America 24",
+    "logo": "logos/a24-ar.png"
+  },
+  {
+    "number": 5,
+    "name": "C5N HD",
+    "logo": "logos/c5n-ar.png"
+  },
+  {
+    "number": 6,
+    "name": "Cronica TV",
+    "logo": "logos/cronica-hd-ar.png"
+  },
+  {
+    "number": 7,
+    "name": "Canal 26",
+    "logo": "logos/canal-26-ar.png"
+  },
+  {
+    "number": 8,
+    "name": "TELERED Marcos Juarez",
+    "logo": "logos/telered_marcos_juarez.png"
+  },
+  {
+    "number": 9,
+    "name": "Canal 9",
+    "logo": "logos/elnueve-ar.png"
+  },
+  {
+    "number": 10,
+    "name": "CegroTV G.Roca",
+    "logo": "logos/cegro_tv_g_roca.png"
+  },
+  {
+    "number": 11,
+    "name": "Telefe",
+    "logo": "logos/telefe-ar.png"
+  },
+  {
+    "number": 12,
+    "name": "America",
+    "logo": "logos/america-ar.png"
+  },
+  {
+    "number": 13,
+    "name": "Canal 13",
+    "logo": "logos/eltrece-ar.png"
+  },
+  {
+    "number": 14,
+    "name": "TV Publica",
+    "logo": "logos/television-publica-ar.png"
+  },
+  {
+    "number": 15,
+    "name": "LN +",
+    "logo": "logos/la-nacion-mas-ar.png"
+  },
+  {
+    "number": 16,
+    "name": "DeporTV",
+    "logo": "logos/deportv-ar.png"
+  },
+  {
+    "number": 17,
+    "name": "TYC SPORTS",
+    "logo": "logos/tyc-sports-ar.png"
+  },
+  {
+    "number": 18,
+    "name": "ESPN",
+    "logo": "logos/espn-ar.png"
+  },
+  {
+    "number": 19,
+    "name": "ESPN2",
+    "logo": "logos/espn-2-ar.png"
+  },
+  {
+    "number": 20,
+    "name": "ESPN3",
+    "logo": "logos/espn-3-ar.png"
+  },
+  {
+    "number": 21,
+    "name": "ESPN4",
+    "logo": "logos/espn-extra-ar.png"
+  },
+  {
+    "number": 22,
+    "name": "FOX SPORTS",
+    "logo": "logos/fox-sports-ar.png"
+  },
+  {
+    "number": 23,
+    "name": "FOX SPORTS 2",
+    "logo": "logos/fox-sports-2-ar.png"
+  },
+  {
+    "number": 24,
+    "name": "QUIERO MUSICA",
+    "logo": "logos/quiero-musica-en-mi-idioma-ar.png"
+  },
+  {
+    "number": 25,
+    "name": "CINECANAL",
+    "logo": "logos/cine-canal-ar.png"
+  },
+  {
+    "number": 26,
+    "name": "CINEMAX",
+    "logo": "logos/cinemax-ar.png"
+  },
+  {
+    "number": 27,
+    "name": "STAR CHANNEL",
+    "logo": "logos/star-channel-ar.png"
+  },
+  {
+    "number": 28,
+    "name": "WARNER",
+    "logo": "logos/warner-channel-ar.png"
+  },
+  {
+    "number": 29,
+    "name": "SONY",
+    "logo": "logos/sony-channel-ar.png"
+  },
+  {
+    "number": 30,
+    "name": "TNT",
+    "logo": "logos/tnt-ar.png"
+  },
+  {
+    "number": 31,
+    "name": "TNT SERIES",
+    "logo": "logos/tnt-series-ar.png"
+  },
+  {
+    "number": 32,
+    "name": "UNIVERSAL CHANNEL",
+    "logo": "logos/universal-tv-ar.png"
+  },
+  {
+    "number": 33,
+    "name": "SPACE",
+    "logo": "logos/space-ar.png"
+  },
+  {
+    "number": 34,
+    "name": "ANIMAL PLANET",
+    "logo": "logos/animal-planet-ar.png"
+  },
+  {
+    "number": 35,
+    "name": "NAT GEO",
+    "logo": "logos/national-geographic-ar.png"
+  },
+  {
+    "number": 36,
+    "name": "History Channel",
+    "logo": "logos/history-channel-ar.png"
+  },
+  {
+    "number": 37,
+    "name": "DISCOVERY CHANNEL",
+    "logo": "logos/discovery-channel-ar.png"
+  },
+  {
+    "number": 38,
+    "name": "DISCOVERY H&H",
+    "logo": "logos/discovery-home-and-health-ar.png"
+  },
+  {
+    "number": 39,
+    "name": "MAS CHIC",
+    "logo": "logos/mas-chic-ar.png"
+  },
+  {
+    "number": 40,
+    "name": "Gourmet",
+    "logo": "logos/el-gourmet-ar.png"
+  },
+  {
+    "number": 41,
+    "name": "El Garage",
+    "logo": "logos/el-garage-tv-ar.png"
+  },
+    {
+    "number": 42,
+    "name": "Discovery Turbo",
+    "logo": "logos/discovery-turbo-ar.png"
+  },
+    {
+    "number": 43,
+    "name": "ID Discovery",
+    "logo": "logos/id-investigation-discovery-ar.png"
+  },
+    {
+    "number": 44,
+    "name": "Europa Europa",
+    "logo": "logos/europa-europa-ar.png"
+  },
+  {
+    "number": 45,
+    "name": "NICKJR",
+    "logo": "logos/nick-jr-ar.png"
+  },
+  {
+    "number": 46,
+    "name": "CARTOON NETWORK",
+    "logo": "logos/cartoon-network-ar.png"
+  },
+  {
+    "number": 47,
+    "name": "DISNEY CHANNEL",
+    "logo": "logos/disney-channel-ar.png"
+  },
+  {
+    "number": 95,
+    "name": "Metro",
+    "logo": "logos/metro-ar.png"
+  },
+  {
+    "number": 96,
+    "name": "Canal 10 Cordoba",
+    "logo": "logos/canal-10-ar.png"
+  },
+  {
+    "number": 97,
+    "name": "EWTN",
+    "logo": "logos/ewtn-ar.png"
+  },
+  {
+    "number": 98,
+    "name": "Canal Rural",
+    "logo": "logos/canal-rural-ar.png"
+  },
+  {
+    "number": 99,
+    "name": "Argentinisima",
+    "logo": "logos/argentinisima-satelital-ar.png"
+  }
+]
