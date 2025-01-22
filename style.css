@@ -13,13 +13,13 @@ header {
   color: #fff;
   padding: 20px;
   text-align: center;
-  font-family: 'Acephimere';
-  }
+}
 
 
 header h1 {
   margin: 0;
   font-size: 2rem;
+  font-family: 'Acephimere';  
 }
 
 /* Contenedor principal */
