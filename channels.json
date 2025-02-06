@@ -1,8 +1,8 @@
 [
   {
     "number": 1,
-    "name": "Canal A",
-    "logo": "logos/canal-a-ar.png"
+    "name": "Metro",
+    "logo": "logos/metro-ar.png"
   },
   {
     "number": 2,
@@ -236,8 +236,8 @@
   },
   {
     "number": 95,
-    "name": "Metro",
-    "logo": "logos/metro-ar.png"
+    "name": "El Canal de las Estrellas",
+    "logo": "logos/estrellas.png"
   },
   {
     "number": 96,
